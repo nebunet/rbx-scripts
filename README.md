@@ -1,2 +1,5 @@
-# rbx-scripts
-a repository full of roblox exploit scripts
+<p align="center">
+
+# welcome to my roblox script repository!
+
+</p>
